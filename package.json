@@ -1,0 +1,19 @@
+{
+  "name": "write-simple-units-of-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "protractor.conf.js",
+  "scripts": {
+    "pretest": "webdriver-manager update",
+    "test": "protractor"
+  },
+  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr-filho.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "protractor": "^5.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlsf82/write-simple-units-of-code"
+  }
+}
