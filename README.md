@@ -1,5 +1,7 @@
 # Write simple units of code
 
+⚠️ **This project has been deprecated.** ⚠️
+
 Sample project to exemplify the usage of JavaScript `forEach` on Protractor tests
 
 ## Installation
